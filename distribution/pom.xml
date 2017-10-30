@@ -156,6 +156,11 @@ LICENSE file.
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
+      <artifactId>ravendb35-binding</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.yahoo.ycsb</groupId>
       <artifactId>infinispan-binding</artifactId>
       <version>${project.version}</version>
     </dependency>

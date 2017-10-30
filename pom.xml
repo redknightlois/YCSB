@@ -144,6 +144,7 @@ LICENSE file.
     <module>nosqldb</module>
     <module>orientdb</module>
     <module>rados</module>
+    <module>ravendb35</module>
     <module>redis</module>
     <module>rest</module>
     <module>riak</module>
